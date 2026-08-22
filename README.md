@@ -75,7 +75,7 @@ This dashboard analyzes patient admission data across **10 major hospitals** (in
 
 # TREATMENT & COST - NHAD
 
-![Dashboard Preview]()
+![Dashboard Preview](https://github.com/SeemakurthiGirish/NATIONAL-HEALTHCARE-ANALYTICS-DASHBOARD/blob/main/TREATMENT%20%26%20COST%20-%20NHAD.png)
 
 ---
 
@@ -91,4 +91,4 @@ This dashboard analyzes patient admission data across **10 major hospitals** (in
 
 ## 📬 Connect
 
-Feel free to connect with me on [LinkedIn](#) or check out my other projects on [GitHub](https://github.com/SeemakurthiGirish).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/girish-seemakurthi-572507374?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) or check out my other projects on [GitHub](https://github.com/SeemakurthiGirish).
