@@ -67,7 +67,7 @@ This dashboard analyzes patient admission data across **10 major hospitals** (in
 ## 📷 Dashboard Preview
 # PATIENTS DEMOGRAPHICS - NHAD
 
-![Dashboard Preview]()
+![Dashboard Preview](https://github.com/SeemakurthiGirish/NATIONAL-HEALTHCARE-ANALYTICS-DASHBOARD/blob/main/PATIENTS%20DEMOGRAPHICS%20-%20NHAD.png)
 
 # KEY TRENDS - NHAD
 
