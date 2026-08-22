@@ -71,7 +71,7 @@ This dashboard analyzes patient admission data across **10 major hospitals** (in
 
 # KEY TRENDS - NHAD
 
-![Dashboard Preview]()
+![Dashboard Preview](https://github.com/SeemakurthiGirish/NATIONAL-HEALTHCARE-ANALYTICS-DASHBOARD/blob/main/KEY%20TRENDS%20-%20NHAD.png)
 
 # TREATMENT & COST - NHAD
 
